@@ -1,6 +1,6 @@
 SITENAME = "pelican_reference demo"
-#SITEURL = "http://mitchtbaum.github.io/pelican_reference-demo/"
-SITEURL = "http://localhost:8000"
+SITEURL = "http://mitchtbaum.github.io/pelican_reference-demo/"
+#SITEURL = "http://localhost:8000"
 DEFAULT_DATE = "fs"
 CATEGORY_URL = "{slug}/"
 CATEGORY_SAVE_AS = "{slug}/index.html"
