@@ -8,6 +8,6 @@ ARTICLE_URL = "{category}/{slug}/"
 ARTICLE_SAVE_AS = "{category}/{slug}/index.html"
 PLUGIN_PATHS = 'plugins'
 PLUGINS = ['pelican_reference']
-#SLUGIFY_SOURCE = 'basename'
+SLUGIFY_SOURCE = 'basename'
 PATH = "content"
 THEME = "theme"
