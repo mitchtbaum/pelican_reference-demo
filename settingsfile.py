@@ -7,3 +7,4 @@ ARTICLE_URL = "{category}/{slug}/"
 ARTICLE_SAVE_AS = "{category}/{slug}/index.html"
 PLUGIN_PATH = 'pelican-plugins'
 PLUGINS = ['pelican_reference']
+SLUGIFY_SOURCE = 'basename'
